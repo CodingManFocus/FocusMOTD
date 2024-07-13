@@ -1,0 +1,4 @@
+name: FocusMOTD
+version: '${version}'
+main: com.codenamemc.focusmotd.FocusMOTD
+api-version: '1.21'

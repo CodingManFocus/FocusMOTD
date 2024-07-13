@@ -1,0 +1,11 @@
+motd:
+  - "&aWelcome to our server!"
+  - "&bEnjoy your stay!"
+player-count:
+  max-players: 100
+icons:
+  change-interval: 60  # seconds
+  icon-files:
+    - icon1.png
+    - icon2.png
+    - icon3.png
